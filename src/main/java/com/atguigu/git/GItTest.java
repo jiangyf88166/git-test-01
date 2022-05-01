@@ -13,5 +13,6 @@ public class GItTest {
         System.out.println("master test!,edit four by master");
         System.out.println("hot-fix test!,edit02 by hot-fix");
         System.out.println("push test!,edit05 by master");
+        System.out.println("pull test!");
     }
 }
